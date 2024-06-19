@@ -3,8 +3,7 @@ import 'package:ballotchain/main.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-
-
+import 'dashboard.dart';
 
 class SplashScreen extends StatelessWidget{
 
